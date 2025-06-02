@@ -103,7 +103,7 @@ jobs:
         run: mvn package -Dmaven.test.skip=true # Compila o código fonte
 
       - name: Unit Test
-        run: mvn test # Executada os testes de unidade
+        run: mvn test # Executa os testes de unidade
 ```
 
 Esse arquivo ativa e configura o GitHub Actions para -- toda vez que ocorrer um evento `push` ou `pull_request` tendo como alvo a branch principal do repositório -- realizar três tarefas (jobs):
