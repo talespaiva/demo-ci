@@ -60,6 +60,8 @@ public class CalculadoraTest {
 
 Antes de mais nada realize um fork deste repositório. Para isso, basta clicar no botão **Fork** no canto superior direito desta página.
 
+**⚠️ ATENÇÃO**: Caso você esteja praticando este roteiro através do Github Classroom, é provável que um fork já tenha sido criado para você pelo sistema.
+
 Ou seja, você irá configurar um servidor de CI na sua própria cópia do repositório.
 
 #### Passo 2
